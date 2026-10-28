@@ -22,8 +22,7 @@
 
 ### 🛠️ Tecnologias e ferramentas
 
-*Adicione aqui as tecnologias que você já conhece
-ou está estudando.*
+HTML
 
 <!-- Exemplo: HTML, CSS, JavaScript, Python, SQL, Git -->
 
